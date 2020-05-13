@@ -1,0 +1,1 @@
+This is my practice for making many functions to do things over and over.
